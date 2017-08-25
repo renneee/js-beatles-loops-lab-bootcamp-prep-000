@@ -19,7 +19,7 @@ function johnLennonFacts (facts){
 }
 
 function iLoveTheBeatles (m) {
-  const love [ ]
+  const love = [ ]
   do {
     love.push (`I love the Beatles!`);
     m++
@@ -27,4 +27,3 @@ function iLoveTheBeatles (m) {
 
     return love
   }
-  
