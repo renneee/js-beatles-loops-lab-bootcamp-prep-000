@@ -15,7 +15,8 @@ function johnLennonFacts (facts) {
   let n = 0
   while (n < facts.length) {
     facts.push(`${facts[n]}!!!`)
-    n+++
+    n++
   }
+
   return facts
 }
