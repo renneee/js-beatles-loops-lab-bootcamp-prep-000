@@ -10,7 +10,12 @@ function theBeatlesPlay (musicians, instruments) {
 }
 
 function johnLennonFacts (facts) {
-  while (facts.length > 0) {
-    console.log ("${facts}!!!");
+  const facts = []
+
+  let n = 0
+  while (n < facts.length) {
+    facts.push(`${facts[n]}!!!`)
+    n+++
   }
+  return facts
 }
