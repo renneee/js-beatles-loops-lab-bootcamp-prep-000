@@ -17,3 +17,17 @@ function johnLennonFacts (facts){
   }
   return shoutedFacts
 }
+
+function iLoveTheBeatles (m) {
+  const love [ ]
+  do {
+    love.push (`I love the Beatles!`);
+    m++
+  } while (
+    array.length < 15)
+
+    return love
+  }
+  
+    
+  
